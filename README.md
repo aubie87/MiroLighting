@@ -1,2 +1,2 @@
-# miro-lighting
-Access Wattstopper Miro wireless lighting lighting controls for your house.
+# Miro Lighting
+Access Wattstopper Miro wireless lighting controls for your house.
